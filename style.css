@@ -8,6 +8,10 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-image: url("images/Vergissmeinnicht.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .header-wrapper {
@@ -99,7 +103,7 @@ main {
 
 section {
   margin-top: 21px;
-  margin-right: 21px;
+  margin-right: 11px;
   margin-bottom: 21px;
   margin-left: 21px;
   padding-left: 21px;
